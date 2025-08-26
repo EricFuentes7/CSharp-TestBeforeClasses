@@ -1,0 +1,15 @@
+C:\Users\annae\Documentos\CSharp\20\bin\Debug\net9.0\20.exe
+C:\Users\annae\Documentos\CSharp\20\bin\Debug\net9.0\20.deps.json
+C:\Users\annae\Documentos\CSharp\20\bin\Debug\net9.0\20.runtimeconfig.json
+C:\Users\annae\Documentos\CSharp\20\bin\Debug\net9.0\20.dll
+C:\Users\annae\Documentos\CSharp\20\bin\Debug\net9.0\20.pdb
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.AssemblyInfoInputs.cache
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.AssemblyInfo.cs
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.csproj.CoreCompileInputs.cache
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.sourcelink.json
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.dll
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\refint\20.dll
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.pdb
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\20.genruntimeconfig.cache
+C:\Users\annae\Documentos\CSharp\20\obj\Debug\net9.0\ref\20.dll

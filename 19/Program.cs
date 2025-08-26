@@ -9,14 +9,20 @@ public class Program
         public string Nombre
         {
             get { return nombre; }
-            set { nombre = value; }
+            set
+            {
+                if (value != "")
+                {
+                    nombre = value;
+                }
+            }
         }
-    }
-    public static void Main(string[] args)
-    {
-        Aplicacion a = new Aplicacion();
-        a.Nombre = "Eric";
-        Console.WriteLine(a.Nombre);
+        public static void Main(string[] args)
+        {
+            Aplicacion a = new Aplicacion();
+            a.Nombre = "Eric";
+            Console.WriteLine(a.Nombre);
+        }
     }
 }
 
