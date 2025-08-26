@@ -1,0 +1,14 @@
+C:\Users\annae\Documentos\CSharp\09\bin\Debug\net9.0\09.exe
+C:\Users\annae\Documentos\CSharp\09\bin\Debug\net9.0\09.deps.json
+C:\Users\annae\Documentos\CSharp\09\bin\Debug\net9.0\09.runtimeconfig.json
+C:\Users\annae\Documentos\CSharp\09\bin\Debug\net9.0\09.dll
+C:\Users\annae\Documentos\CSharp\09\bin\Debug\net9.0\09.pdb
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.AssemblyInfoInputs.cache
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.AssemblyInfo.cs
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.csproj.CoreCompileInputs.cache
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.dll
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\refint\09.dll
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.pdb
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\09.genruntimeconfig.cache
+C:\Users\annae\Documentos\CSharp\09\obj\Debug\net9.0\ref\09.dll

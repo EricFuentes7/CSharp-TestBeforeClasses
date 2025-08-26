@@ -1,0 +1,14 @@
+C:\Users\annae\Documentos\CSharp\17\bin\Debug\net9.0\17.exe
+C:\Users\annae\Documentos\CSharp\17\bin\Debug\net9.0\17.deps.json
+C:\Users\annae\Documentos\CSharp\17\bin\Debug\net9.0\17.runtimeconfig.json
+C:\Users\annae\Documentos\CSharp\17\bin\Debug\net9.0\17.dll
+C:\Users\annae\Documentos\CSharp\17\bin\Debug\net9.0\17.pdb
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.AssemblyInfoInputs.cache
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.AssemblyInfo.cs
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.csproj.CoreCompileInputs.cache
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.dll
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\refint\17.dll
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.pdb
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\17.genruntimeconfig.cache
+C:\Users\annae\Documentos\CSharp\17\obj\Debug\net9.0\ref\17.dll

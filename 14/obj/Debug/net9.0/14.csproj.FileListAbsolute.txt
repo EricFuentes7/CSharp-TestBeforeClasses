@@ -1,0 +1,14 @@
+C:\Users\annae\Documentos\CSharp\14\bin\Debug\net9.0\14.exe
+C:\Users\annae\Documentos\CSharp\14\bin\Debug\net9.0\14.deps.json
+C:\Users\annae\Documentos\CSharp\14\bin\Debug\net9.0\14.runtimeconfig.json
+C:\Users\annae\Documentos\CSharp\14\bin\Debug\net9.0\14.dll
+C:\Users\annae\Documentos\CSharp\14\bin\Debug\net9.0\14.pdb
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.AssemblyInfoInputs.cache
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.AssemblyInfo.cs
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.csproj.CoreCompileInputs.cache
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.dll
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\refint\14.dll
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.pdb
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\14.genruntimeconfig.cache
+C:\Users\annae\Documentos\CSharp\14\obj\Debug\net9.0\ref\14.dll
